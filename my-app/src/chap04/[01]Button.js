@@ -1,9 +1,4 @@
-import logo from './logo.svg';
-import React from 'react';
-import './App.css';
-
-
-export default import { useState } from "react";
+import { useState } from "react";
 
 export default function Myapp() {
     return (
